@@ -29,3 +29,11 @@ htmlcov/
 .direnv
 
 .github/**
+/aws-auth-patch2.yml
+/aws-iam-authenticator
+/aws-iam-authenticator.sha256
+/cluster-create-role.json
+/cluster-trust-policy.json
+/ClusterCreateRoleStack.yaml
+/iam-role-policy.json
+/trust.json
