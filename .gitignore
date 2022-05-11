@@ -29,6 +29,7 @@ htmlcov/
 .direnv
 
 .github/**
+/aws-auth-patch.yml
 /aws-auth-patch2.yml
 /aws-iam-authenticator
 /aws-iam-authenticator.sha256
