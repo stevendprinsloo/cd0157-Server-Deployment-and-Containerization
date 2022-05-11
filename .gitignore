@@ -27,7 +27,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
-
+.env_file
 .github/**
 /aws-auth-patch.yml
 /aws-auth-patch2.yml
